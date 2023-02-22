@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\ConsoleApppractice1\ConsoleApppractice1\bin\Debug\ConsoleApppractice1.exe
+C:\Users\HP\source\repos\ConsoleApppractice1\ConsoleApppractice1\bin\Debug\ConsoleApppractice1.pdb
+C:\Users\HP\source\repos\ConsoleApppractice1\ConsoleApppractice1\obj\Debug\ConsoleApppractice1.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\ConsoleApppractice1\ConsoleApppractice1\obj\Debug\ConsoleApppractice1.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\ConsoleApppractice1\ConsoleApppractice1\obj\Debug\ConsoleApppractice1.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ConsoleApppractice1\ConsoleApppractice1\obj\Debug\ConsoleApppractice1.exe
+C:\Users\HP\source\repos\ConsoleApppractice1\ConsoleApppractice1\obj\Debug\ConsoleApppractice1.pdb
+C:\Users\HP\source\repos\ConsoleApppractice1\ConsoleApppractice1\bin\Debug\FixityProject.dll
+C:\Users\HP\source\repos\ConsoleApppractice1\ConsoleApppractice1\bin\Debug\FixityProject.pdb
+C:\Users\HP\source\repos\ConsoleApppractice1\ConsoleApppractice1\obj\Debug\ConsoleApppractice1.csproj.CopyComplete
+C:\Users\HP\source\repos\ConsoleApppractice1\ConsoleApppractice1\bin\Debug\ClassLibrary1.dll
+C:\Users\HP\source\repos\ConsoleApppractice1\ConsoleApppractice1\bin\Debug\ClassLibrary1.pdb
